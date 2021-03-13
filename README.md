@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Monitoring Inactivity Time with React and Typescript ⌛🕒
 </h1>
 
