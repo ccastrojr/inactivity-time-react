@@ -1,6 +1,4 @@
-<h1>
-  Monitoring Inactivity Time with React and Typescript ⌛🕒
-</h1>
+# Monitoring Inactivity Time with React and Typescript 🕒
 
 ## 📑 Content
 
